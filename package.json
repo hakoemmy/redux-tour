@@ -1,0 +1,23 @@
+{
+  "name": "redux-tour",
+  "version": "1.0.0",
+  "description": "Manage javascript applications state for all js frontend libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hakoemmy/redux-tour.git"
+  },
+  "keywords": [],
+  "author": "Emmanuel HAKORIMANA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hakoemmy/redux-tour/issues"
+  },
+  "homepage": "https://github.com/hakoemmy/redux-tour#readme",
+  "dependencies": {
+    "redux": "^4.0.5"
+  }
+}
