@@ -13,7 +13,6 @@ const BUY_ICE_CREAM = 'BUY_ICE_CREAM';
 }
 buyIceCream = () => {
     return {
-
         type: BUY_ICE_CREAM,
         info: 'Second redux action'
     };
